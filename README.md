@@ -10,6 +10,8 @@ Bucketware modded mod menu for Growtopia
 
 How to use?
 ```
+[!]
+Unzip packages.zip on packages.:)
 Open bucketware.sln after build it on Debug,Release (which one u prefer).
 The builded .exe go to -> Bucketware -> Bucketware -> Bin -> (Debug,Release) -> Bucketware.exe
 ```
